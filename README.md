@@ -1,7 +1,9 @@
 
 # Análisis de embudo y retención para MercadoLibre  🚛
 
-
+>[!NOTE]
+>PROYECTO REALIZADO EN TRIPLETEN
+>
 Necesitamos entender en qué etapa del proceso perdemos usuarios y cómo podemos mejorar su retención a lo largo del tiempo
 
 
