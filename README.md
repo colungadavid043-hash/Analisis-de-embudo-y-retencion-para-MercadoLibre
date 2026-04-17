@@ -28,6 +28,12 @@ Necesitamos entender en qué etapa del proceso perdemos usuarios y cómo podemos
 - Analizar retención y cohortes.
 - Simular mejoras y redactar el informe ejecutivo.
 
+## Dataset
+
+- mercadolibre_retention ( Mide actividad recurrente por usuario y periodo).
+- mercadolibre_funnel (Registra eventos de usuarios durante el proceso de compra).
+
+
 
 ## Principales Hallazgos  💯 ✔️
 
